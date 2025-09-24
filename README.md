@@ -5,8 +5,10 @@
 
 
 ## 
-|  | Column 2 |
+|Member Id  | Role |
 |----------|----------|
-|IT24102381| test 01 |
+|IT24102381| Data Cleaning + Encoding |
+|IT241023090| Outlier Removal|
+
 
 
