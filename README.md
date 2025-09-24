@@ -9,6 +9,11 @@
 |----------|----------|
 |IT24102381| Data Cleaning + Encoding |
 |IT241023090| Outlier Removal|
+|IT24102399| Normalisation/Scaling|
+|IT24102333| Feature Engineering(New Features)|
+|IT24102381| Feature Selection|
+|IT24102421|Dimensionality Reduction|
+
 
 
 
