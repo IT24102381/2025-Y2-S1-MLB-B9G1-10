@@ -16,6 +16,20 @@ Each preprocessing technique was handled by one group member, and the results we
 ## Dataset Details
 
 
+Name of dataset: Telco Customer Churn
+Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Number of records: 7043 rows
+Number of features (after preprocessing): 10 columns
+Target variable: Churn (Yes/No, encoded as 1/0)
+
+Brief note on preprocessing:
+Missing values handled
+Categorical variables encoded
+Numerical features caled
+Outliers removed
+New features engineered (services_count, avg_charge_per_month, tenure_group)
+Feature selection
+Dimensionality reduction
 
 
 
