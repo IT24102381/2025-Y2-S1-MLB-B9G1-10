@@ -13,23 +13,40 @@ Each preprocessing technique was handled by one group member, and the results we
 ---
 
 
-## Dataset Details
 
 
-Name of dataset: Telco Customer Churn
-Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-Number of records: 7043 rows  Number of features (after preprocessing): 10 columns
-Number of features (after preprocessing): 10 columns
-Target variable: Churn (Yes/No, encoded as 1/0)
 
-Brief note on preprocessing:
-Missing values handled
-Categorical variables encoded
-Numerical features caled
-Outliers removed
-New features engineered (services_count, avg_charge_per_month, tenure_group)
-Feature selection
-Dimensionality reduction
+
+## Dataset Information
+
+* **Name of Dataset**: Telco Customer Churn
+* **Source**: [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+* **Number of Records**: 7043 rows
+* **Number of Features (after preprocessing)**: 10 columns
+* **Target Variable**: `Churn` (Yes/No → encoded as 1/0)
+
+## 🔧 Data Preprocessing Steps
+
+1. **Handling Missing Values** – Cleaned and imputed missing data.
+2. **Encoding Categorical Variables** – Converted categorical features into numerical format.
+3. **Scaling Numerical Features** – Standardized numerical columns for better model performance.
+4. **Outlier Removal** – Detected and removed extreme values.
+5. **Feature Engineering** – Created new features:
+
+   * `services_count`
+   * `avg_charge_per_month`
+   * `tenure_group`
+6. **Feature Selection** – Selected the most relevant features for prediction.
+7. **Dimensionality Reduction** – Reduced data complexity while retaining important information.
+
+## 🎯 Objective
+
+To predict customer churn (whether a customer will leave or stay) based on service usage patterns and demographic details.
+
+## 📌 Notes
+
+* Target variable (`Churn`) is encoded as binary (1 = Yes, 0 = No).
+* Data is preprocessed and ready for modeling.
 
 
 
