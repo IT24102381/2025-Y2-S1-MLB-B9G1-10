@@ -17,7 +17,7 @@ Each preprocessing technique was handled by one group member, and the results we
 
 
 
-## Dataset Information
+## 📊 Dataset Information
 
 * **Name of Dataset**: Telco Customer Churn
 * **Source**: [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
