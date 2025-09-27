@@ -18,7 +18,7 @@ Each preprocessing technique was handled by one group member, and the results we
 
 Name of dataset: Telco Customer Churn
 Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-Number of records: 7043 rows
+Number of records: 7043 rows  Number of features (after preprocessing): 10 columns
 Number of features (after preprocessing): 10 columns
 Target variable: Churn (Yes/No, encoded as 1/0)
 
