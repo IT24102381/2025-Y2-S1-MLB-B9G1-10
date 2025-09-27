@@ -49,7 +49,7 @@ To predict customer churn (whether a customer will leave or stay) based on servi
 * Data is preprocessed and ready for modeling.
 
 
-
+---
 
 ## Group Member Roles
 
